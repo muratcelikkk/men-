@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+  margin-top: 60px;
+}
+
+li {
+  list-style-type: none;
+  background-color: blanchedalmond;
+  border: 1px solid white;
+  padding: 15px;
+  border-radius: 250px;
+  opacity: 0.5;
+  float: left;
+  font-weight: 900;
+  margin-right: 15px;
+}
+li:hover {
+  color: white;
+  background-color: darkgoldenrod;
+  font-weight: 900;
+}
+.list {
+  text-align: center;
+  margin-left: 170px;
+}
